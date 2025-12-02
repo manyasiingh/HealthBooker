@@ -65,17 +65,9 @@ const Footer = () => {
             </ul>
           </div>
         </div>
-        <div className="footer-bottom">
-          Made by{" "}
-          <a
-            href="https://www.linkedin.com/in/manyasiingh"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Manya & Monika
-          </a>{" "}
-          © {new Date().getFullYear()}
-        </div>
+      <div className="footer-bottom">
+  © {new Date().getFullYear()}
+</div>
       </footer>
     </>
   );
