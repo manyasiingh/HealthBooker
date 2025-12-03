@@ -70,12 +70,8 @@ Welcome to our comprehensive healthcare platform! Our website offers a seamless 
   <li><strong>Update Profile:</strong> Providing users with the ability to update their profiles keeps their information accurate and up to date.</li>
   <li><strong>Contact Section for Queries:</strong> Including a contact section for user queries enhances user engagement and customer support.</li>
   <li><strong>Notifications Tab:</strong> A notifications tab helps users stay informed about updates, appointments, and application statuses.</li>
-  <li><strong>Admin Management System:</strong> An admin management system is crucial for overseeing users, appointments, and doctor applications.</li>
-  <li><strong>Access Control:</strong> Restricting access to certain sections like notifications, profile, appointments, and doctor applications to logged-in users ensures data privacy and security.</li>
   <li><strong>Doctor Application:</strong> Allowing users to apply to become a doctor on the site expands the pool of medical professionals and adds value to the platform.</li>
   <li><strong>Book Appointments:</strong> Enabling users to book appointments with their preferred doctors streamlines the process of accessing medical services.</li>
-  <li><strong>Admin Approval for Doctor Requests:</strong> Admin approval for doctor applications ensures that only qualified professionals are listed on the platform.</li>
-  <li><strong>User and Doctor Removal:</strong> Admin's ability to remove users or doctors from the site is crucial for maintaining the platform's integrity.</li>
   <li><strong>Appointment Marking:</strong> Allowing doctors and admin to mark appointments as completed ensures proper record-keeping.</li>
   <li><strong>Application and Appointment Notifications:</strong> Sending notifications to users, doctors, and admins about application statuses and appointment updates enhances communication.</li>
   <li><strong>Data Storage and Security:</strong> Storing all data in a database ensures data integrity, security, and easy retrieval of information.</li>
@@ -115,15 +111,6 @@ npm start
 
 </ol>
 
-### To access the admin dashboard
-
-<ol>
-<li>Download the project from the git repository</li>
-<li>You need to create your own MongoDB instance and add the MongoDB url to the .env file</li>
-<li>Register on the website and go to your MongoDB and manually change the 'isAdmin' field of the account you want to make admin in the DB to 'true' and then log in back on the site</li>
-<li>Now you will be able to access the admin dashboard</li>
-</ol>
-
 ---
 
 <p align="right"><a href="#top">Back to Top</a></p>
@@ -151,14 +138,6 @@ npm start
 ### Apply for doctor page
 
 <img src="./client/src/images/docapply.png" alt='applyfordoctor'/>
-
-### Admin all users dashboard
-
-<img src="./client/src/images/users.png" alt='users'/>
-
-### Admin all applications page
-
-<img src="./client/src/images/applications.png" alt='applications'/>
 
 ### Book Appointment page
 
