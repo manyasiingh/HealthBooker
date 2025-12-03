@@ -5,7 +5,7 @@
   <br>
   <img src="https://img.shields.io/github/repo-size/manyasiingh/HealthBooker?style=for-the-badge" />
   <img src="https://img.shields.io/github/issues/manyasiingh/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-closed-raw/manyasiingh/HealthBooker?style=for-the-badge" />
+    <img src="https://img.shields.io/github/issues-closed-raw/Avinash905/HealthBooker?style=for-the-badge" />
     <img src="https://img.shields.io/github/last-commit/manyasiingh/HealthBooker?style=for-the-badge" />
     <img src="https://img.shields.io/github/issues-pr/manyasiingh/HealthBooker?style=for-the-badge" />
     <img src="https://img.shields.io/github/issues-pr-closed-raw/manyasiingh/HealthBooker?style=for-the-badge" />
